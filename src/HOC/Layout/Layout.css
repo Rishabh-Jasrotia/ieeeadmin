@@ -1,0 +1,11 @@
+.Layout{
+    height: 100vh;
+    width: 100%;
+}
+
+.main{
+    height: calc(100% - 70px);
+    width: 100%;
+    background-color: #E2F3F5;
+    overflow-y: auto;
+}

@@ -1,0 +1,23 @@
+.Header{
+    position: sticky;
+    top: 0;
+    left: 0;
+    height: 70px;
+    width: 100vw;
+    background-color: #E2F3F5;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    overflow-x: hidden;
+}
+
+.Header_content{
+    margin: auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.Header_content img{
+    max-width: 70px;
+}

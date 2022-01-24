@@ -1,0 +1,14 @@
+.EventTime{
+    border-radius: 10px;
+    padding: 5px;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.Yellow{
+    background-color: lightsalmon;
+}
+
+.Green{
+    background-color: lightgreen;
+}

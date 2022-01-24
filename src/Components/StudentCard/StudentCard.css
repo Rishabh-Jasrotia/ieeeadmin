@@ -1,0 +1,27 @@
+.StudentCard{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    margin: 10px;
+    background-color: white;
+    padding:10px;
+    align-items: center;
+    transition: background-color 0.2s;
+}
+
+.StudentCard:hover{
+    background-color: #0066B2;
+    color: white;
+}
+
+.hidden
+{
+    display: none;
+}
+
+.StudentCard p{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
